@@ -12,8 +12,6 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * /**
- * Copyright 2008-2018 OPPO Mobile Comm Corp., Ltd, All rights reserved.*
  * Package: cn.nj.zj.springbooyoss.Configs
  *
  * @Author: zhaotianyu

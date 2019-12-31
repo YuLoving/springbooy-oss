@@ -4,9 +4,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * /**
- * Copyright 2008-2018 OPPO Mobile Comm Corp., Ltd, All rights reserved.*
+ /**
  * Package: cn.nj.zj.springbooyoss.Entity
  *
  * @Author: zhaotianyu

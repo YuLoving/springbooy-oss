@@ -11,8 +11,6 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * /**
- * Copyright 2008-2018 OPPO Mobile Comm Corp., Ltd, All rights reserved.*
  * Package: cn.nj.zj.springbooyoss.Common
  * 阿里oss工具类
  *

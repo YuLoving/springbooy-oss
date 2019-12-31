@@ -21,8 +21,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.Locale;
 
 /**
- * /**
- * Copyright 2008-2018 OPPO Mobile Comm Corp., Ltd, All rights reserved.*
+ *
  * Package: cn.nj.zj.springbooyoss.Controller
  *
  * @Author: zhaotianyu

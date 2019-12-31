@@ -4,8 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * /**
- * Copyright 2008-2018 OPPO Mobile Comm Corp., Ltd, All rights reserved.*
+ *
  * Package: cn.nj.zj.springbooyoss.Common
  *
  * @Author: zhaotianyu
